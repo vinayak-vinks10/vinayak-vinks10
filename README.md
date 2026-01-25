@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 ```
-- 🎓 **BCA Graduate** passionate about tech & problem-solving
+- 🎓 **BCA Graduate** passionate about tech & problem-solving.
 - 🐍 Strong interest in **Python & Data Analysis**
 - 🗄️ Hands-on with **SQL & relational databases**
 - 🌐 Exploring **Web Development** (HTML, CSS, JS)
