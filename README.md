@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Vinayak Kapoor</h1>
-<h3 align="center">Aspiring Software Developer | Python • Data Analysis • SQL • Web Development</h3>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Data Analysis</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinayak-vinks10&label=Profile%20Views&color=blueviolet&style=flat-square" />
