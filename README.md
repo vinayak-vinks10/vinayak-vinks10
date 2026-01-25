@@ -14,34 +14,14 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```python
-class VinayakKapoor:
-    def __init__(self):
-        self.name = "Vinayak Kapoor"
-        self.role = "Aspiring Data Analyst"
-        self.education = "BCA Graduate"
-        self.passions = ["Tech", "Problem-Solving", "Data Analysis"]
-        self.learning_philosophy = "Learning by building real-world projects"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL", "HTML", "CSS", "JavaScript"],
-            "tools": ["Jupyter", "MySQL", "Git", "GitHub"],
-            "focus_areas": ["Data Analysis", "Web Development", "Databases"],
-            "mindset": "Consistent learner, improving every single day"
-        }
-    
-    def current_goals(self):
-        return [
-            "📌 Improving Python problem-solving",
-            "📌 Advanced SQL queries & database concepts",
-            "📌 Building portfolio-level projects",
-            "📌 Preparing for tech interviews"
-        ]
-
-me = VinayakKapoor()
+- 🎓 **BCA Graduate** passionate about tech & problem-solving
+- 🐍 Strong interest in **Python & Data Analysis**
+- 🗄️ Hands-on with **SQL & relational databases**
+- 🌐 Exploring **Web Development** (HTML, CSS, JS)
+- 📈 Believe in **learning by building** real-world projects
+- 🔥 **Consistent learner**, improving every single day
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
