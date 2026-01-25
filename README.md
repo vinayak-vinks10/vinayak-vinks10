@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Aspiring+Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Data+Analysis;Building+Real-World+Projects" alt="Typing SVG" />
 
 <!-- Profile Views with Custom Styling -->
-<img src="https://komarev.com/ghpvc/?username=vinayak-vinks10&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
 
 </div>
 
