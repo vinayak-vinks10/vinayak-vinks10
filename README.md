@@ -16,7 +16,6 @@
 
 <!-- Animated Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinayak-vinks10&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/vinayak-vinks10?label=Followers&style=for-the-badge&color=667eea&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/vinayak-vinks10?label=Stars&style=for-the-badge&color=764ba2&logo=github" alt="Stars"/>
 </p>
